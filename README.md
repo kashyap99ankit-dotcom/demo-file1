@@ -1,4 +1,4 @@
-# demo-file1
+# Demo-file1
 <br>
 My first demo project.
 <br>
